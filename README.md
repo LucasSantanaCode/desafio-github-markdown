@@ -16,5 +16,4 @@ Aqui serão treinados os conceitos apresentados no curso até o momento, princip
 | Gists | ✔️ |
 | Issues | ✔️ |
 | Wikis | ✔️ |
-| Referenciar Issues a Branches | ![img](https://assets.dio.me/uLPu3eOjZcdpcqOwnZyuH7ybkn-3gQZZorJOgHlCgkg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci84VEQ3VkVOMy5qcGc) |
-
+| Referenciar Issues a Branches | ✔️ |
