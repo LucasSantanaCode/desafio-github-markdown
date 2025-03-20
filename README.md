@@ -4,3 +4,6 @@ Desafio proporcionado pela [@alinealien](https://github.com/alinealien) no curso
 Aqui serão treinados os conceitos apresentados no curso até o momento, principalmente os recursos e meios disponíveis para atividade colaborativa
 
 ![Gato voador](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
+| CONTEÚDO | PRÁTICADO |
+| Criação repositório | [x] |
