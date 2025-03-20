@@ -5,6 +5,7 @@ Aqui serão treinados os conceitos apresentados no curso até o momento, princip
 
 ![Gato voador](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
+<p align="center">
 | CONTEÚDO | PRÁTICADO |
 |----------|-----------|
 | repositório | ✔️ |
@@ -17,3 +18,4 @@ Aqui serão treinados os conceitos apresentados no curso até o momento, princip
 | Issues | ✔️ |
 | Wikis | ✔️ |
 | Referenciar Issues a Branches | ✔️ |
+</p>
