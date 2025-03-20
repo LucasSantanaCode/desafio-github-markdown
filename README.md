@@ -6,5 +6,14 @@ Aqui serão treinados os conceitos apresentados no curso até o momento, princip
 ![Gato voador](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 | CONTEÚDO | PRÁTICADO |
-| Criação repositório | Concluido |
-| Criação repositório | Concluido |
+|----------|-----------|
+| repositório | ✔️ |
+| Branch | ✔️ |
+| Pull-Request | ✔️ |
+| Branch | ✔️ |
+| Tags | ✔️ |
+| Releases | ✔️ |
+| Gists | ✔️ |
+| Issues | ✔️ |
+| Wikis | ✔️ |
+| Referenciar Issues a Branches | ✔️ |
